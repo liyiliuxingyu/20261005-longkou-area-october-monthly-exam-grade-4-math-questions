@@ -1,0 +1,350 @@
+[
+  {
+    "slide": 1,
+    "id": "cover",
+    "title": "四年级数学逐题讲解",
+    "clicks": 3
+  },
+  {
+    "slide": 2,
+    "id": "f1",
+    "title": "填空 1｜倒推方框里的数",
+    "clicks": 3
+  },
+  {
+    "slide": 3,
+    "id": "f2a",
+    "title": "填空 2｜从错误结果倒推",
+    "clicks": 3
+  },
+  {
+    "slide": 4,
+    "id": "f2b",
+    "title": "填空 2｜代回原式",
+    "clicks": 3
+  },
+  {
+    "slide": 5,
+    "id": "f3",
+    "title": "填空 3｜直线之间的位置关系",
+    "clicks": 3
+  },
+  {
+    "slide": 6,
+    "id": "f4",
+    "title": "填空 4｜最短的路线",
+    "clicks": 3
+  },
+  {
+    "slide": 7,
+    "id": "f5",
+    "title": "填空 5｜购物小票里的数量关系",
+    "clicks": 2
+  },
+  {
+    "slide": 8,
+    "id": "f6a",
+    "title": "填空 6｜无人机喷洒面积",
+    "clicks": 2
+  },
+  {
+    "slide": 9,
+    "id": "f6b",
+    "title": "填空 6｜另一种思路",
+    "clicks": 2
+  },
+  {
+    "slide": 10,
+    "id": "f7",
+    "title": "填空 7｜用括号改变运算顺序",
+    "clicks": 3
+  },
+  {
+    "slide": 11,
+    "id": "f8",
+    "title": "填空 8｜从内到外计算",
+    "clicks": 3
+  },
+  {
+    "slide": 12,
+    "id": "f9",
+    "title": "填空 9｜竖式中的部分积",
+    "clicks": 3
+  },
+  {
+    "slide": 13,
+    "id": "f10a",
+    "title": "填空 10（1）｜由流程图列式",
+    "clicks": 3
+  },
+  {
+    "slide": 14,
+    "id": "f10b",
+    "title": "填空 10（2）｜由流程图列式",
+    "clicks": 3
+  },
+  {
+    "slide": 15,
+    "id": "c1",
+    "title": "选择 1｜横括线的作用",
+    "clicks": 3
+  },
+  {
+    "slide": 16,
+    "id": "c2",
+    "title": "选择 2｜比较先后顺序",
+    "clicks": 4
+  },
+  {
+    "slide": 17,
+    "id": "c3",
+    "title": "选择 3｜去掉括号以后",
+    "clicks": 3
+  },
+  {
+    "slide": 18,
+    "id": "c4",
+    "title": "选择 4｜两次对折的折痕",
+    "clicks": 2
+  },
+  {
+    "slide": 19,
+    "id": "c5",
+    "title": "选择 5｜垂直是特殊的相交",
+    "clicks": 3
+  },
+  {
+    "slide": 20,
+    "id": "c6",
+    "title": "选择 6｜火车完全过桥",
+    "clicks": 3
+  },
+  {
+    "slide": 21,
+    "id": "c7",
+    "title": "选择 7｜单价×数量＝总价",
+    "clicks": 4
+  },
+  {
+    "slide": 22,
+    "id": "c8",
+    "title": "选择 8｜最后一步求什么",
+    "clicks": 3
+  },
+  {
+    "slide": 23,
+    "id": "o1",
+    "title": "口算 1",
+    "clicks": 2
+  },
+  {
+    "slide": 24,
+    "id": "o2",
+    "title": "口算 2",
+    "clicks": 2
+  },
+  {
+    "slide": 25,
+    "id": "o3",
+    "title": "口算 3",
+    "clicks": 2
+  },
+  {
+    "slide": 26,
+    "id": "o4",
+    "title": "口算 4",
+    "clicks": 2
+  },
+  {
+    "slide": 27,
+    "id": "o5",
+    "title": "口算 5",
+    "clicks": 2
+  },
+  {
+    "slide": 28,
+    "id": "o6",
+    "title": "口算 6",
+    "clicks": 2
+  },
+  {
+    "slide": 29,
+    "id": "o7",
+    "title": "口算 7",
+    "clicks": 2
+  },
+  {
+    "slide": 30,
+    "id": "o8",
+    "title": "口算 8",
+    "clicks": 2
+  },
+  {
+    "slide": 31,
+    "id": "d1",
+    "title": "脱式计算 1",
+    "clicks": 2
+  },
+  {
+    "slide": 32,
+    "id": "d2",
+    "title": "脱式计算 2",
+    "clicks": 3
+  },
+  {
+    "slide": 33,
+    "id": "d3",
+    "title": "脱式计算 3",
+    "clicks": 2
+  },
+  {
+    "slide": 34,
+    "id": "d4",
+    "title": "脱式计算 4",
+    "clicks": 2
+  },
+  {
+    "slide": 35,
+    "id": "d5",
+    "title": "脱式计算 5",
+    "clicks": 3
+  },
+  {
+    "slide": 36,
+    "id": "d6",
+    "title": "脱式计算 6",
+    "clicks": 3
+  },
+  {
+    "slide": 37,
+    "id": "g1a",
+    "title": "作图 1｜过P作AB的平行线",
+    "clicks": 3
+  },
+  {
+    "slide": 38,
+    "id": "g1b",
+    "title": "作图 1｜过P作CD的垂线",
+    "clicks": 3
+  },
+  {
+    "slide": 39,
+    "id": "g2a",
+    "title": "作图 2（1）｜点到直线的距离",
+    "clicks": 3
+  },
+  {
+    "slide": 40,
+    "id": "g2b",
+    "title": "作图 2（2）｜过A作BC的平行线",
+    "clicks": 3
+  },
+  {
+    "slide": 41,
+    "id": "a1a",
+    "title": "解决问题 1｜中国结装盒",
+    "clicks": 3
+  },
+  {
+    "slide": 42,
+    "id": "a1b",
+    "title": "解决问题 1｜先求合格个数",
+    "clicks": 3
+  },
+  {
+    "slide": 43,
+    "id": "a1c",
+    "title": "解决问题 1｜另一种思路",
+    "clicks": 3
+  },
+  {
+    "slide": 44,
+    "id": "a2table",
+    "title": "解决问题 2｜树苗和花苗价格表",
+    "clicks": 2
+  },
+  {
+    "slide": 45,
+    "id": "a2a",
+    "title": "解决问题 2（1）｜比较购买费用",
+    "clicks": 3
+  },
+  {
+    "slide": 46,
+    "id": "a2b",
+    "title": "解决问题 2（1）｜另一种思路",
+    "clicks": 3
+  },
+  {
+    "slide": 47,
+    "id": "a2c",
+    "title": "解决问题 2（2）｜把各一棵看成一组",
+    "clicks": 3
+  },
+  {
+    "slide": 48,
+    "id": "a2d",
+    "title": "解决问题 2（2）｜先扣除广玉兰费用",
+    "clicks": 3
+  },
+  {
+    "slide": 49,
+    "id": "a3a",
+    "title": "解决问题 3（1）｜两端同时施工",
+    "clicks": 3
+  },
+  {
+    "slide": 50,
+    "id": "a3b",
+    "title": "解决问题 3（1）｜两种列式",
+    "clicks": 2
+  },
+  {
+    "slide": 51,
+    "id": "a3c",
+    "title": "解决问题 3（2）｜少修多少米",
+    "clicks": 2
+  },
+  {
+    "slide": 52,
+    "id": "a4a",
+    "title": "解决问题 4（1）｜上山路程",
+    "clicks": 2
+  },
+  {
+    "slide": 53,
+    "id": "a4b",
+    "title": "解决问题 4（2）｜往返平均速度",
+    "clicks": 3
+  },
+  {
+    "slide": 54,
+    "id": "a4c",
+    "title": "解决问题 4（2）｜为什么不能直接平均速度",
+    "clicks": 3
+  },
+  {
+    "slide": 55,
+    "id": "x1a",
+    "title": "附加 1｜从错误过程倒推",
+    "clicks": 3
+  },
+  {
+    "slide": 56,
+    "id": "x1b",
+    "title": "附加 1｜按正确顺序重算",
+    "clicks": 3
+  },
+  {
+    "slide": 57,
+    "id": "x2",
+    "title": "附加 2｜秋游返程平均速度",
+    "clicks": 3
+  },
+  {
+    "slide": 58,
+    "id": "notes",
+    "title": "试卷校勘说明",
+    "clicks": 4
+  }
+]

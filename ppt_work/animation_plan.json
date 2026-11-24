@@ -1,0 +1,3385 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 2,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 3,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 4,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 5,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "right-a",
+            "effect": "appear"
+          },
+          {
+            "name": "right-b",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "four",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "c-ext",
+            "effect": "wipe"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 6,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "B-right-a",
+            "effect": "appear"
+          },
+          {
+            "name": "B-right-b",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "short",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 7,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 8,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "area",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 9,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 10,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 11,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 12,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "v1lab",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "v2lab",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 13,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "fans0",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "fans1",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "fans2",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 14,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "fans0",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "fans1",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "fans2",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 15,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 16,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-3-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-3-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-3-text",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 17,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 18,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "pa1",
+            "effect": "wipe",
+            "direction": "down",
+            "duration": 600
+          },
+          {
+            "name": "pa2",
+            "effect": "wipe",
+            "direction": "down",
+            "duration": 600
+          },
+          {
+            "name": "pa3",
+            "effect": "wipe",
+            "direction": "down",
+            "duration": 600
+          },
+          {
+            "name": "parallel-fold",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "pbv",
+            "effect": "wipe",
+            "direction": "down"
+          },
+          {
+            "name": "pbh",
+            "effect": "wipe",
+            "direction": "right",
+            "delay": 500
+          },
+          {
+            "name": "perp-fold",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 19,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "setmark",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 20,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "journey",
+            "effect": "wipe"
+          },
+          {
+            "name": "journey-l",
+            "effect": "appear"
+          },
+          {
+            "name": "moving-train",
+            "effect": "motion",
+            "path": "M 0 0 L .3046875 0 E",
+            "duration": 1400
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 21,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "dt",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-3-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-3-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-3-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-3-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 22,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 23,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 24,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 25,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 26,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 27,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 28,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 29,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 30,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 31,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 32,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 33,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 34,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 35,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 36,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 37,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "appear"
+          },
+          {
+            "name": "ruler",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "motion",
+            "path": "M 0 0 L -.023529411 .188235294 E",
+            "duration": 1100
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "parallel-answer",
+            "effect": "wipe",
+            "direction": "right",
+            "duration": 800
+          },
+          {
+            "name": "line-l",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "disappear",
+            "delay": 850
+          },
+          {
+            "name": "ruler",
+            "effect": "disappear",
+            "delay": 850
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 38,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "motion",
+            "path": "M 0 0 L .0859375 -.0555556 E",
+            "duration": 1000
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "perp-answer",
+            "effect": "wipe",
+            "direction": "down"
+          },
+          {
+            "name": "right-a",
+            "effect": "appear"
+          },
+          {
+            "name": "right-b",
+            "effect": "appear"
+          },
+          {
+            "name": "m",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "disappear",
+            "delay": 800
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 39,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "motion",
+            "path": "M 0 0 L .0859375 -.0555556 E",
+            "duration": 1100,
+            "delay": 200
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "AH",
+            "effect": "wipe",
+            "direction": "down"
+          },
+          {
+            "name": "right-a",
+            "effect": "appear"
+          },
+          {
+            "name": "right-b",
+            "effect": "appear"
+          },
+          {
+            "name": "H",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "disappear",
+            "delay": 900
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "dist",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 40,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "appear"
+          },
+          {
+            "name": "ruler",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "motion",
+            "path": "M 0 0 L -.04275 -.2088889 E",
+            "duration": 1100
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "parallel-answer",
+            "effect": "wipe"
+          },
+          {
+            "name": "l",
+            "effect": "appear"
+          },
+          {
+            "name": "tool",
+            "effect": "disappear",
+            "delay": 800
+          },
+          {
+            "name": "ruler",
+            "effect": "disappear",
+            "delay": 800
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 41,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "ktdiv",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "ktsub",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "kttext5",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 42,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 43,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 44,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 45,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 46,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 47,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 48,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 49,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "left0",
+            "effect": "wipe",
+            "delay": 0,
+            "duration": 450
+          },
+          {
+            "name": "right0",
+            "effect": "wipe",
+            "direction": "left",
+            "delay": 0,
+            "duration": 450
+          },
+          {
+            "name": "left1",
+            "effect": "wipe",
+            "delay": 500,
+            "duration": 450
+          },
+          {
+            "name": "right1",
+            "effect": "wipe",
+            "direction": "left",
+            "delay": 500,
+            "duration": 450
+          },
+          {
+            "name": "left2",
+            "effect": "wipe",
+            "delay": 1000,
+            "duration": 450
+          },
+          {
+            "name": "right2",
+            "effect": "wipe",
+            "direction": "left",
+            "delay": 1000,
+            "duration": 450
+          },
+          {
+            "name": "left3",
+            "effect": "wipe",
+            "delay": 1500,
+            "duration": 450
+          },
+          {
+            "name": "right3",
+            "effect": "wipe",
+            "direction": "left",
+            "delay": 1500,
+            "duration": 450
+          },
+          {
+            "name": "meet",
+            "effect": "appear",
+            "delay": 2000
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "total",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 50,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 51,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 52,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 53,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 54,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 55,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 56,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 57,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-formula",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-formula",
+            "effect": "appear"
+          },
+          {
+            "name": "answer",
+            "effect": "appear"
+          }
+        ]
+      ]
+    },
+    {
+      "slide": 58,
+      "steps": [
+        [
+          {
+            "name": "step-0-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-0-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-1-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-1-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-2-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-2-text",
+            "effect": "appear"
+          }
+        ],
+        [
+          {
+            "name": "step-3-circle",
+            "effect": "appear"
+          },
+          {
+            "name": "step-3-num",
+            "effect": "appear"
+          },
+          {
+            "name": "step-3-text",
+            "effect": "appear"
+          }
+        ]
+      ]
+    }
+  ]
+}
